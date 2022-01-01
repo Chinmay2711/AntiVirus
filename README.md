@@ -1,1 +1,2 @@
 # AntiVirus
+It is a Python program that computes the MD5 hashes and compares with the malicious hashes online. If the file is found matching it will alert the user and the user gets an option of quarantining the file and also deleting it. When a file is in quarantine it cannot be externally accessed and the execute priviledge of the file is also aborted. This will allow user to have compelete access to the computer without worrying about ay malicious content.
